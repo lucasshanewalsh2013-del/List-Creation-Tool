@@ -3,7 +3,7 @@ Something I made in 2025 for a project. Originally on my old acc, but I am reupl
 
 Usage:
 
-Hey there! Thanks for downloading my tool! Here's the docs for how to use the tool!
+Hey there! Thanks for downloading my tool! Here's the docs for how to use!
 To begin, here are the list of commands:
 
 create
